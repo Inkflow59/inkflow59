@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">A game, software and apps developper based on Clickteam Fusion</h3>
+<h3 align="center">A web, game, software and apps devlopper coded mainly on Clickteam Fusion</h3>
 
 ###
 
