@@ -68,7 +68,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Inkflow59/Inkflow59/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/inkflow59/inkflow59/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
