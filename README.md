@@ -19,7 +19,11 @@
 
 ###
 
-### [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11127395499&unique=true)](https://open.spotify.com/user/11127395499)
+<div align="center">
+  <a href="https://open.spotify.com/user/11127395499">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11127395499&unique=true"  />
+  </a>
+ </div>
 
 ###
 
@@ -27,10 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=fr&hide_border=false&custom_title=Statistiques d'Inkflow&username=Inkflow" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&username=Inkflow" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img href="https://raw.githubusercontent.com/Inkflow/Inkflow/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
