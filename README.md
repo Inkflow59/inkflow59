@@ -68,6 +68,10 @@
 
 ###
 
+<img href="https://raw.githubusercontent.com/Inkflow59/Inkflow59/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
 <img align="right" height="200" src="https://i.imgur.com/0zxb079.png"  />
 
 ###
