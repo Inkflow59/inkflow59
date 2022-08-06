@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?inkflow59&color=blue)
+![](https://komarev.com/ghpvc/?username=inkflow59&color=blue)
 
 ###
 
