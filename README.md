@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=inkflow59&color=blue)
+![](https://komarev.com/ghpvc/?username=Inkflow59&color=blue)
 
 ###
 
@@ -36,14 +36,14 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=fr&hide_border=false&custom_title=Statistiques d'Inkflow&username=Inkflow" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&username=Inkflow" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=fr&hide_border=false&username=Inkflow59" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&username=Inkflow59" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://discordapp.com/users/286179374204583938/" target="_blank">
@@ -71,7 +71,7 @@
 
 ###
 
-![snake gif](https://github.com/inkflow59/inkflow59/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Inkflow59/inkflow59/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
